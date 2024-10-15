@@ -6,6 +6,9 @@ I'm a passionate mobile and web developer, dedicated to creating seamless user e
 - 🌱 I'm currently looking for an end-of-studies internship
 - 💬 Ask me about mobile app development, web accessibility, and front-end technologies
 - 📫 How to reach me: nstitouah@gmail.com
+![Profile Views](https://komarev.com/ghpvc/?username=yacine37th&color=brightgreen)
+
+![Profile Views](https://profile-counter.glitch.me/yacine37th/count.svg)
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titouah-yacine-721a17295/)
@@ -18,11 +21,7 @@ I'm a passionate mobile and web developer, dedicated to creating seamless user e
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yacine37th&theme=radical)](https://git.io/streak-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yacine37th&color=brightgreen)
 
-![GitHub followers](https://img.shields.io/github/followers/yacine37th?label=Followers&style=social)
-
-![Profile Views](https://profile-counter.glitch.me/yacine37th/count.svg)
 
 ### 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
